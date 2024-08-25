@@ -1,0 +1,6 @@
+{
+	"name": "onpremIRSQL",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
